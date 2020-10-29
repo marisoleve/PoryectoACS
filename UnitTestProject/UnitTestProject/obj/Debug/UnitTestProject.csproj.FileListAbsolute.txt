@@ -1,0 +1,40 @@
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\WebDriver.dll
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\bin\Debug\WebDriver.xml
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\ASUS\source\repos\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\WebDriver.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\WebDriver.Support.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\WebDriver.xml
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\bin\Debug\WebDriver.Support.xml
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
