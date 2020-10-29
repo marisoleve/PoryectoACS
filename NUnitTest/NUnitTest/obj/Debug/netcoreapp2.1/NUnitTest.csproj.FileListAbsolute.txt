@@ -1,0 +1,15 @@
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnitTest.deps.json
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnitTest.runtimeconfig.json
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnitTest.runtimeconfig.dev.json
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnitTest.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnitTest.pdb
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.csprojAssemblyReference.cache
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.csproj.CoreCompileInputs.cache
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.AssemblyInfoInputs.cache
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.AssemblyInfo.cs
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.dll
+D:\Documentos\UMG\10 SEMESTRE\ASEGURAMIENTO DE LA CALIDAD DE SOFTWARE\PROYECTO FASE FINAL\NUnitTest\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.pdb
